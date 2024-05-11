@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Football Object Detection
 This project utilizes object detection algorithms to analyze football matches videos by finding the position of different objects on the football pitch and classifying them into 7 different classes:  
 0 - Player team left  
@@ -80,3 +81,6 @@ This is done by comparing the team's label (0 or 1) to the label of the "Team Le
 The goalkeeper is labeled "GK Left" if he's found on the left hand side of the frame, and labeled "GK Right" otherwise.
 
 Further explanation of the model can be found in the jupyter notebook.
+=======
+# football_tracking
+>>>>>>> origin/main
